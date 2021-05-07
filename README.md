@@ -1,2 +1,2 @@
-# music-heruko
-music heruko
+# music-heroku
+music heroku
